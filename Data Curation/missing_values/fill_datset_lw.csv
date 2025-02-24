@@ -1,0 +1,9 @@
+ID,Name,Age,State,Department,Salary,Joining_Date
+1,Aarav,25,Karnataka,Engineering,50000,15-01-2020
+2,Aditi,,Maharashtra,HR,55000,20-05-2019
+3,Krishna,30,Karnataka,Engineering,,10-06-2021
+4,Meera,28,,Finance,60000,01-08-2018
+5,Ananya,35,Kerala,Finance,70000,
+6,,29,Tamil Nadu,Engineering,58000,05-03-2022
+7,Rohan,40,Delhi,Marketing,,11-12-2017
+8,Ishita,32,Uttar Pradesh,Finance,75000,20-10-2019
