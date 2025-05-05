@@ -56,7 +56,6 @@ Key concepts illustrated:
 - Pandas 📊
 - NumPy 🔢
 - BeautifulSoup 🌐
-- Scipy & Statsmodels 📈
 - Matplotlib & Seaborn 📉
 - Scikit-learn 🤖
 
