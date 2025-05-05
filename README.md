@@ -12,6 +12,10 @@ This repository contains various **data curation techniques** used for preparing
 5. **Normalization** - Scaling data using techniques like Min-Max normalization and Z-score standardization.  
 6. **Chi-Square Test** - Performing chi-square tests for independence and goodness of fit in categorical data analysis.  
 7. **K-Nearest Neighbors** - Classification using the KNN algorithm with and without data normalization.
+8. **Outlier** - Finding outlier using different techniques like Z-score , IQR , Binning . 
+9. **PCA** -  Principal Component Analysis (PCA) is used for reducing the dimensionality of large datasets while preserving as much variability (information) as possible
+10. **Pearson** -  Pearson correlation is a statistical measure used in data curation to quantify the linear relationship between two numerical variables
+11. **Sampling** -  Using mulitiple sampling techniques for data numerosity reduction and also solving imbalaced dataset
 
 
 ## 📝 Example Notebooks
